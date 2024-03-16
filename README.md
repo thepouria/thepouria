@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thepouria
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently getting deep in software engineering
 - 💞️ I’m looking to collaborate on Any kind of project u have :)
 
 
